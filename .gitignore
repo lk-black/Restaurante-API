@@ -1,14 +1,8 @@
-# Byte-compiled / optimized / DLL files
+.env
+
 __pycache__/
 *.py[cod]
 *$py.class
-/.env
-env
-/env
-./env
-environments
-.env
-./.env
 
 # C extensions
 *.so
